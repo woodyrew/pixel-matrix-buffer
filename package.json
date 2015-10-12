@@ -1,0 +1,25 @@
+{
+  "name": "buffer-pixel-matrix",
+  "version": "0.0.1",
+  "description": "For storing, updating and retrieving pixel matrixes",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "NODE_ENV=development nodemon .",
+    "lint": "eslint .",
+    "test": "mocha",
+    "posttest": "npm run lint",
+    "test-dev": "nodemon --exec 'npm test'"
+  },
+  "author": "Woody Goodricke <hi@andrewgoodricke.com>",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "joi": "^6.9.0"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "eslint": "^1.6.0",
+    "mocha": "^2.3.3"
+  }
+}
