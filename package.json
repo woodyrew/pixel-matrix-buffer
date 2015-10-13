@@ -1,5 +1,5 @@
 {
-  "name": "buffer-pixel-matrix",
+  "name": "pixel-matrix-buffer",
   "version": "0.0.2",
   "description": "For storing, updating and retrieving pixel matrixes",
   "main": "lib/index.js",
