@@ -58,17 +58,17 @@ The number of rows high the matrix should be.
 #### `initial_state` {boolean}
 The state the matrix will be initialised with.
 
-*Default: **false** *
+*Default:* **false**
 
 #### `on_state` {mixed}
 How *on* will be represented.
 
-*Default: **true** *
+*Default:* **true**
 
 #### `off_state` {mixed}
 How *off* will be represented.
 
-*Default: **false** *
+*Default:* **false**
 
 
 ## License
