@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/woodyrew/pixel-matrix-buffer.svg)](https://travis-ci.org/woodyrew/pixel-matrix-buffer)
+
 # Pixel Matrix Buffer
 
 For storing, updating and retrieving pixel matrixes.
